@@ -20,5 +20,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cat-The-Developer-2&show_icons=true&theme=radical)  
+<!-- ## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cat-The-Developer-2&show_icons=true&theme=radical)  --> 
+
