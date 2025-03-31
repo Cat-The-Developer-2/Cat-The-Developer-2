@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | MERN Stack**  
 💻 **Building Scalable Web Apps**  
 ⚡ **Passionate about AI**  
-🔨 **Currently working on: KeepAlive & AI projects**  
+🔨 **Currently working on: KeepAlive, ChatClip & AI projects**  
 📩 **Let's connect! [Twitter](https://x.com/CNinja22936)**
 
 ## 🔧 Technologies & Tools  
