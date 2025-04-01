@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | MERN Stack**  
 💻 **Building Scalable Web Apps**  
 ⚡ **Passionate about AI**  
-🔨 **Currently working on: KeepAlive, ChatClip & AI projects**  
+🔨 **Currently working on: KeepAlive & AI projects**  
 📩 **Let's connect! [Twitter](https://x.com/CNinja22936)**
 
 ## 🔧 Technologies & Tools  
@@ -12,6 +12,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,express,figma,jquery,mongodb,mysql,nextjs,nodejs,postgres,py,react,supabase,vercel,workers" />
   </a>
 </p>
+
+## 🌍 Live Projects
+[**ChatClip**](https://chat-clip.vercel.app/) - Save and Organize Your ChatGPT Conversations
 
 ## 🌱 Learning & Exploring
 <p align="center">
