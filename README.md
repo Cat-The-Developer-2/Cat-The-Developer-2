@@ -20,5 +20,5 @@ I've built bunch of projects pinned and my favourite is [Web Search Engine](http
 - [Added and designed a new route for Project Algo Infinity Verse. Merged via PR #17](https://github.com/Eshajha19/Algo-Infinity-Verse/pull/17) (My first OSS contribution)
 
 ### Education
-- **Class XII (Senior Secondary) – PCM** | Vidya Mandir Public School, Faribad; CBSE
+- **Class XII (Senior Secondary) – PCM** | Vidya Mandir Public School, Faridabad; CBSE
   - Year of Passing: 2025 | Score: 92%
