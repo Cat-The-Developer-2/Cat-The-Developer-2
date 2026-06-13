@@ -17,8 +17,15 @@ I've built bunch of projects pinned and my favourite is [Web Search Engine](http
 
 ### My Open Source Contributions
 
-- [Added and designed a new route for Project Algo Infinity Verse. Merged via PR #17](https://github.com/Eshajha19/Algo-Infinity-Verse/pull/17) (My first OSS contribution)
+- Added and designed a new route for Project Algo Infinity Verse. Merged via PR #17  
+  (My first open-source contribution)
+  - https://github.com/Eshajha19/Algo-Infinity-Verse/pull/17
 
 ### Education
-- **Class XII (Senior Secondary) – PCM** | Vidya Mandir Public School, Faridabad; CBSE
-  - Year of Passing: 2025 | Score: 92%
+**B.Tech in Engineering Physics**  
+Sardar Vallabhbhai National Institute of Technology, Surat  
+Expected Graduation: 2030
+
+**Class XII (Senior Secondary) – PCM**  
+Vidya Mandir Public School, Faridabad (CBSE)  
+2025 • 92%
