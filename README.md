@@ -10,6 +10,8 @@ Currently I am exploring the world of Java ☕
 
 I've built bunch of projects pinned and my favourite is [Web Search Engine](https://github.com/Cat-The-Developer-2/web-search-engine)
 
+want to contact me? : [message me on instagram](https://www.instagram.com/bharatiyamlabs/)
+
 ### Fun Fact
 - I like Cats
 - I like watching Test Cricket
